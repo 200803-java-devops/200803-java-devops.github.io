@@ -1,6 +1,9 @@
 # Java/DevOps
 Welcome to the docs repository for Revature's 200803 Java/DevOps cohort. Here you will find weekly topics, useful resources, and project requirements.
 
+## Team Discussion
+Please refer to [The Team](https://github.com/orgs/200803-java-devops/teams/the-team) discussion forum for important updates and discussion.
+
 ## Getting Started
 - [Development Environment](devenv.md)
 
