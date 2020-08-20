@@ -20,7 +20,7 @@ Every week, we will focus on a particular technology or theme, and self-study an
 
 ## Projects
 - [**Project 0**](project0.md): Individual project. Begins Week 1, presentations on **Wednesday Week 3**
-- **Project 1**: Individual project. Begins end of Week 3, presentations on **Friday Week 5**
+- [**Project 1**](project1.md): Individual project. Begins end of Week 3, presentations on **Friday Week 5**
 - **Project 2**: Small group project. Begins Week 6, presentations on **Friday Week 7**
 - **Project 3**: Large group project. Begins Week 8, presentation on **Thursday Week 10**
 
