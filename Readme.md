@@ -33,3 +33,7 @@ Every week, we will focus on a particular technology or theme, and self-study an
   - [Overview - JDBC](overview-jdbc.md)
   - [Overview - cURL](overview-curl.md)
   - [Overview - Servlets](overview-servlets.md)
+  - [Overview - Tomcat](overview-tomcat.md)
+  - [Overview - HTML](overview-html.md)
+  - [Overview - REST](overview-rest.md)
+  - [Overview - JAX-RS](overview-jaxrs.md)

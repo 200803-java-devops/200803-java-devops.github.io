@@ -22,6 +22,15 @@
   - Session vs Cookie
   - Deployment Descriptor:
     - `web.xml` tags: servlet-name, servlet-class, url-mapping, load-on-startup, init-param, context-param
+- HTML5:
+  - Elements
+  - Attributes
+  - DOM
+  - Forms
+- REST
+  - Constraints
+  - Expose & Consume endpoints
+  - XML/JSON serialization w/ JAXB or Jackson/Gson
 
 ## Syntax
 - [javax.servlet](https://docs.oracle.com/javaee/7/api/javax/servlet/package-summary.html):
