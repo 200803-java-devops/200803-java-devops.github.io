@@ -1,0 +1,50 @@
+# Week 3 - Linux
+## Concepts
+- Unix/Linux
+    - Unix philosophy: 
+        - Pipelines[|]
+        - Redirections[>]
+        - stdin, stdout, stderr
+    - Linux file system: 
+        - Root[/] vs Home[~]
+        - Files & Directories
+        - Relative vs Absolute Path
+        - User management: groups, permissions
+    - Package Management
+    - Command-line Interface:
+        - Shell Scripting
+        - Environment Variables
+    - Routing tables
+    - SSH
+    - Containerization:
+        - Docker:
+            - Dockerfiles
+            - DockerHub
+- Cloud Computing
+    - IaaS/PaaS/SaaS
+    - AWS:
+        - EC2
+        - EBS
+        - AMI
+        - S3
+        - Security Groups
+        - Autoscaling groups
+
+# Questions
+- What is Unix?
+- What is Linux?
+- What are Linux pipelines?
+- What distribution of Linux are you familiar with? Which distributions are in the same family?
+- What is a shell? Which shell are you familiar with?
+- What is shell scripting?
+- What is a package manager? Which one is used on RHEL?
+- What is grep? man?
+- Explain basic Unix commands for file creation and directory navigation.
+- Where is the home directory located? Where is root?
+- How is the Linux filesystem structured and organized? What are some important directories?
+- What is vim? Nano?
+- How do I change file permissions?
+- How do I create local and global environment variables?
+- What utilities can help you monitor a system's processes? It's filesystem?
+- What is ssh? How can you use it to connect to a Linux system?
+- What is a private and public key?

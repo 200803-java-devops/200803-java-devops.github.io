@@ -13,7 +13,7 @@ Every week, we will focus on a particular technology or theme, and self-study an
 - [**Week 1 - Java**](week-1-java.md)
 - [**Week 2 - SQL**](week-2-sql.md)
 - [**Week 3 - HTTP**](week-3-http.md)
-- **Week 4 - Docker**
+- [**Week 4 - Linux**](week-4-linux.md)
 - **Week 5 - Kubernetes**
 - **Week 6 - Jenkins**
 - **Week 7 - Spinnaker**
