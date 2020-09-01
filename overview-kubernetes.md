@@ -38,3 +38,7 @@
 
 ## Resources
 - [Educational k8s Comic](https://cloud.google.com/kubernetes-engine/kubernetes-comic/)
+- A Rather comprehensive, 55 min long, Youtube video called [Introduction to Microservices, Docker, and Kubernetes](https://www.youtube.com/watch?v=1xo-0gCVhTU)
+  - They start talking about Docker [here](https://youtu.be/1xo-0gCVhTU?t=398)
+  - They start talking about Kubernetes [here](https://youtu.be/1xo-0gCVhTU?t=710)
+  - They start their demonstaration in VS Code [here](https://youtu.be/1xo-0gCVhTU?t=1130)
