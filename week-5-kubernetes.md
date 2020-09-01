@@ -1,0 +1,32 @@
+# Week 5 - Kubernetes
+## Concepts
+- Orchestration
+- Kubernetes:
+    - Architecture:
+        - clusters
+        - nodes
+        - pods
+        - services
+        - volumes
+    - Controllers:
+        - Deployments
+        - ReplicaSets
+    - Objects:
+        - names
+        - namespaces
+        - labels
+        - selectors
+    - YAML:
+        - Configuration
+        - deployment files
+    - Load balancing
+    - Master node control layer
+    - kubectl
+    - Kubernetes Dashboard
+    - Security
+    - Networking:
+        - ingress/egress rules
+    - Scheduling
+    - Monitoring
+- Amazon ECS & EKS
+- MiniKube: setting up a single-node cluster

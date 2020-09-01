@@ -14,7 +14,7 @@ Every week, we will focus on a particular technology or theme, and self-study an
 - [**Week 2 - SQL**](week-2-sql.md)
 - [**Week 3 - HTTP**](week-3-http.md)
 - [**Week 4 - Linux**](week-4-linux.md)
-- **Week 5 - Kubernetes**
+- [**Week 5 - Kubernetes**](week-5-kubernetes.md)
 - **Week 6 - Jenkins**
 - **Week 7 - Spinnaker**
 
@@ -37,3 +37,4 @@ Every week, we will focus on a particular technology or theme, and self-study an
   - [Overview - HTML](overview-html.md)
   - [Overview - REST](overview-rest.md)
   - [Overview - JAX-RS](overview-jaxrs.md)
+  - [Overview - Kubernetes](overview-kubernetes.md)
