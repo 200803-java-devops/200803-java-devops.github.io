@@ -1,3 +1,16 @@
+# Kubernetes
+---
+##Concepts
+
+### Pods
+A Pod is a collection of one or more containers. Containers in a Pod share context, such as storage. They model a single application, or a group of tightly coupled applications. If a Pod dies, the node can generally replace it.
+
+### Nodes
+A Node is represents a single physical or virtual machine. A node may run multiple pods, but most commonly runs a single pod. 
+
+To view the nodes on a cluster:
+``kubectl get nodes``
+
 ## Overview
 - [ ] Orchestration
 - [ ] Kubernetes:
@@ -30,11 +43,6 @@
 - [ ] Amazon ECS & EKS
 - [ ] MiniKube: setting up a single-node cluster
 
-## Questions
-- How do you spell k8s?
-  - 'k' 'u' 'b' 'e' 'r' 'n' 'e' 't' 'e' 's'.
-- Q2
-  - A2
 
 ## Resources
 - [Educational k8s Comic](https://cloud.google.com/kubernetes-engine/kubernetes-comic/)

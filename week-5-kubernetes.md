@@ -30,3 +30,8 @@
     - Monitoring
 - Amazon ECS & EKS
 - MiniKube: setting up a single-node cluster
+
+## Questions
+- How do you spell k8s?
+  - 'k' 'u' 'b' 'e' 'r' 'n' 'e' 't' 'e' 's'.
+- What role does the Master and a (worker) node have in a Kubernetes cluster?
