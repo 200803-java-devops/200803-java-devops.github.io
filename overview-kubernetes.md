@@ -1,5 +1,6 @@
 ## Overview
-- [ ] Orchestration
+- [x] Orchestration
+  - The Idea of monitering, managing, and otherwise coordinating Computer Systems(like containors, for instance). There exists a few services which do this and Kubernetes focuses on Container Orchestration (and, fortunately, works well with Docker) and focuses on the deployment, scaling, and general management of software applications.
 - [ ] Kubernetes:
   - [ ] Architecture:
     - [ ] clusters
@@ -42,3 +43,5 @@
   - They start talking about Docker [here](https://youtu.be/1xo-0gCVhTU?t=398)
   - They start talking about Kubernetes [here](https://youtu.be/1xo-0gCVhTU?t=710)
   - They start their demonstaration in VS Code [here](https://youtu.be/1xo-0gCVhTU?t=1130)
+- [Wikipedia](https://en.wikipedia.org/wiki/Kubernetes)
+- A [K8s + Devops](https://rancher.com/blog/2020/create-kubernetes-devops-pipeline) blog post
