@@ -34,4 +34,8 @@
 ## Questions
 - How do you spell k8s?
   - 'k' 'u' 'b' 'e' 'r' 'n' 'e' 't' 'e' 's'.
+- Why should we use Kubernetes? What are some benefits of Orchestration?
 - What role does the Master and a (worker) node have in a Kubernetes cluster?
+- What are some ways to create a Deployment in Kubernetes?
+- How can two containers in the same Pod communicate? What about two Pods on the same node? What about two Pods on different nodes?
+- Why would you typically use a Deployment over explicitly creating ReplicaSets?
