@@ -31,6 +31,13 @@ To view the nodes on a cluster:
 ``kubectl get nodes``  
 About Nodes: https://kubernetes.io/docs/concepts/architecture/nodes/
 
+### Service
+A service is used to expose a set of Pods to a network (to other pods or to the Internet). A service abstracts out the individual pods and exposes a single DNS name so that the requesting application does not need to know which Pod is handling the request.
+About Services: https://kubernetes.io/docs/concepts/services-networking/service/
+
+### Volumes
+A Volume is a directory available to containers in a Pod. Like Docker volumes, a Kubernetes Volume allows data to be saved past the lifespan of a container, and allows files to be shared between multiple containers. However, Kubernetes Volumes last only as long as the Pod they are tied to. Kubernetes Volumes may be backed by a local disk or a cloud storage.
+About Volumes: https://kubernetes.io/docs/concepts/storage/volumes/
 
 ## Example deployment YAML:
 ```
@@ -101,3 +108,4 @@ Explanation: This creates a deployment named ``nginx-deployment``. It **spec**if
   - They start their demonstaration in VS Code [here](https://youtu.be/1xo-0gCVhTU?t=1130)
 - [Wikipedia](https://en.wikipedia.org/wiki/Kubernetes)
 - A [K8s + Devops](https://rancher.com/blog/2020/create-kubernetes-devops-pipeline) blog postKv
+- Networking on Kubernetes: https://matthewpalmer.net/kubernetes-app-developer/articles/kubernetes-networking-guide-beginners.html
