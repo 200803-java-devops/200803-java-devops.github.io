@@ -72,13 +72,13 @@ Explanation: This creates a deployment named ``nginx-deployment``. It **spec**if
 - [ ] Kubernetes:
   - [ ] Architecture:
     - [ ] clusters
-    - [ ] nodes
-    - [ ] pods
-    - [ ] services
-    - [ ] volumes
-  - [ ] Controllers:
-    - [ ] Deployments
-    - [ ] ReplicaSets
+    - [x] nodes
+    - [x] pods
+    - [x] services
+    - [x] volumes
+  - [x] Controllers:
+    - [x] Deployments
+    - [x] ReplicaSets
   - [ ] Objects:
     - [ ] names
     - [ ] namespaces
@@ -86,7 +86,7 @@ Explanation: This creates a deployment named ``nginx-deployment``. It **spec**if
     - [ ] selectors
   - [ ] YAML:
     - [ ] Configuration
-    - [ ] deployment files
+    - [x] deployment files
   - [ ] Load balancing
   - [ ] Master node control layer
   - [ ] kubectl
