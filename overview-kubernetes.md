@@ -3,6 +3,10 @@
 
 ## Concepts
 
+### Cluster
+Here's an image:
+![alt text](https://d33wubrfki0l68.cloudfront.net/2475489eaf20163ec0f54ddc1d92aa8d4c87c96b/e7c81/images/docs/components-of-kubernetes.svg "Cluster Visulization")
+
 ### Pods
 A Pod is a collection of one or more containers. Containers in a Pod share context, such as storage. They model a single application, or a group of tightly coupled applications. If a Pod dies, the node can generally replace it.  
 
@@ -70,8 +74,8 @@ Explanation: This creates a deployment named ``nginx-deployment``. It **spec**if
 - [x] Orchestration
   - The Idea of monitering, managing, and otherwise coordinating Computer Systems(like containors, for instance). There exists a few services which do this and Kubernetes focuses on Container Orchestration (and, fortunately, works well with Docker) and focuses on the deployment, scaling, and general management of software applications.
 - [ ] Kubernetes:
-  - [ ] Architecture:
-    - [ ] clusters
+  - [x] Architecture:
+    - [x] clusters
     - [x] nodes
     - [x] pods
     - [x] services
