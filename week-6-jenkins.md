@@ -1,0 +1,22 @@
+# Week 6 - Jenkins
+## Concepts
+- DevOps:
+    - Continuous Integration
+- Maven Lifecycle
+- Groovy
+    - Keywords
+    - Classes
+    - Datatypes
+    - Collections
+    - Closures
+    - Control flow
+- Jenkins
+    - Setup & Configuration
+    - Job
+    - Build
+    - Pipeline as code
+    - GitHub integration
+    - SonarQube integration
+    - JenkinsX
+- Configuration management:
+    - Ansible
