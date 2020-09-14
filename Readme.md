@@ -16,7 +16,7 @@ Every week, we will focus on a particular technology or theme, and self-study an
 - [**Week 4 - Linux**](week-4-linux.md)
 - [**Week 5 - Kubernetes**](week-5-kubernetes.md)
 - [**Week 6 - Jenkins**](week-6-jenkins.md)
-- **Week 7 - Spinnaker**
+- [**Week 7 - Spinnaker**](week-7-spinnaker.md)
 
 ## Projects
 - [**Project 0**](project0.md): Individual project. Begins Week 1, presentations on **Wednesday Week 3**
